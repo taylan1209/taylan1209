@@ -1,5 +1,6 @@
-- 👋 Hi, im irfan taylan
-- I’m a GIS Analyst (Geomatics Engineer) with a Double Major in Statistics, bringing a unique combination of skills to solve both spatial and data-driven problems for businesses, governments, and research institutions. I specialize in spatial data analysis, geolocation, raster and vector data processing, database management, and predictive statistical modeling.
+👋 Hi, im irfan taylan,
+
+I’m a GIS Analyst (Geomatics Engineer) with a Double Major in Statistics, bringing a unique combination of skills to solve both spatial and data-driven problems for businesses, governments, and research institutions. I specialize in spatial data analysis, geolocation, raster and vector data processing, database management, and predictive statistical modeling.
 
 Over the past several years, I have successfully supported government institutions, SMEs, NGOs, and research teams with advanced data analysis and geospatial solutions. 
 I have hands-on experience with leading tools and technologies, including:
